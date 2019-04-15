@@ -4,7 +4,7 @@ from socket import*
 
 serverName = 'localhost' #'10.30.44.57' #'10.196.6.147' 
 
-serverPort = 12555
+serverPort = 12520
 
 #IP VERSION 4, 
 clientSocket = socket(AF_INET, SOCK_STREAM)
